@@ -24,7 +24,7 @@ All dependencies will appear on requirements-software.yml file
     requirements-software.yml
 
     ---
-    - src: git@github.com:{{ github_repo_user }}/software_htop
+    - src: git@github.com:xussof/software_htop
       scm: git
       version: master
       name: software_htop
